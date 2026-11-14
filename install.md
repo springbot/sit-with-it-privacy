@@ -4,6 +4,8 @@ title: Install Sit With It
 
 # Installing Sit With It on your Android phone
 
+[מדריך בעברית](install-he)
+
 Sit With It is a practice timer for ERP work with your therapist. It is not on Google Play yet, so you install it from a file. This takes about 3 minutes. It is safe, and you can remove it any time like any other app.
 
 **You need:** an Android phone (Android 8 or newer) and the file `SitWithIt-0.1.0.apk`.
