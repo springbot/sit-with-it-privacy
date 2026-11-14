@@ -10,8 +10,6 @@ Sit With It is a practice timer for ERP work with your therapist. It is not on G
 
 **Download:** https://github.com/springbot/sit-with-it-privacy/releases/latest
 
-**About Pro:** this version has the free features only (sessions up to 1 hour, the starter variants and your history). The paid Pro upgrade is only available through Google Play, so the Pro screen just says it isn't available here.
-
 ## Step 1: Get the file onto your phone
 Open the link or message you were sent on your phone and tap the download link. If it was sent by email or WhatsApp, tap the file to download it.
 If Chrome says "This type of file can harm your device", tap **Download anyway**. That is the normal warning for any app file that doesn't come from Google Play.
@@ -56,4 +54,4 @@ Sit With It is a practice tool to use with your therapist. It is not medical adv
 - **Something else:** write to avivvro@gmail.com and say which phone you have and what you see.
 
 ---
-*For the developer: the file's SHA-256 is `22340643c929b6a77cc189283a81a2166dfb235d32a13085771b3d6368e98f9b`. Share it if anyone wants to check the file wasn't changed.*
+*For the developer: the file's SHA-256 is `5914727841cc2d1ce46e0b117dc1227121e45a41bc5b4f8e4b0591ea97867132`. Share it if anyone wants to check the file wasn't changed.*
