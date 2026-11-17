@@ -56,4 +56,4 @@ You can end a session any time: hold **Hold to stop early** on the home screen f
 - **Something else:** write to avivvro@gmail.com and say which phone you have and what you see.
 
 ---
-*For the developer: the file's SHA-256 is `dfaf411fc90b8036daea2f34be4cce9416b48fda0f7369036fadb86b298b49ab`. Share it if anyone wants to check the file wasn't changed.*
+*For the developer: the file's SHA-256 is `845ed061c7e90de7f7c56a15c171e6707103387087530474c95c8883642f11eb`. Share it if anyone wants to check the file wasn't changed.*
