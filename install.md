@@ -8,7 +8,7 @@ title: Install Sit With It
 
 Sit With It is a habit trainer that helps you leave notifications alone and stay focused. It is not on Google Play yet, so you install it from a file. This takes about 3 minutes. It is safe, and you can remove it any time like any other app.
 
-**You need:** an Android phone (Android 8 or newer) and the file `SitWithIt-0.1.0.apk`.
+**You need:** an Android phone (Android 8 or newer) and the file `SitWithIt-1.0.0.apk`.
 
 **Download:** https://github.com/springbot/sit-with-it-privacy/releases/latest
 
@@ -17,7 +17,7 @@ Open the link or message you were sent on your phone and tap the download link. 
 If Chrome says "This type of file can harm your device", tap **Download anyway**. That is the normal warning for any app file that doesn't come from Google Play.
 
 ## Step 2: Open the file
-When the download finishes, tap **Open**. You can also open the **Files** or **Downloads** app and tap `SitWithIt-0.1.0.apk`.
+When the download finishes, tap **Open**. You can also open the **Files** or **Downloads** app and tap `SitWithIt-1.0.0.apk`.
 
 ## Step 3: Allow the install (first time only)
 Android will say it can't install apps from this source.
@@ -56,4 +56,4 @@ You can end a session any time: hold **Hold to stop early** on the home screen f
 - **Something else:** write to avivvro@gmail.com and say which phone you have and what you see.
 
 ---
-*For the developer: the file's SHA-256 is `845ed061c7e90de7f7c56a15c171e6707103387087530474c95c8883642f11eb`. Share it if anyone wants to check the file wasn't changed.*
+*For the developer: the file's SHA-256 is `7d17667a9e8d7a560975e11ec47e87cf28ddea438057d16f63ec46df310489d1`. Share it if anyone wants to check the file wasn't changed.*
